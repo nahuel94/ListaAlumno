@@ -65,6 +65,9 @@ const URL = 'http://localhost:8000/alumno/';
     ));
     return (
       <>
+      <div>
+        <h1>Hola</h1>
+      </div>
         <div className="tablita">
           <table>
             {/*  <caption>Calificacion de los alumnos</caption> */}
