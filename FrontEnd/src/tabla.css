@@ -1,0 +1,30 @@
+table,tr, td{
+    border: 1px solid #888;
+    border-collapse: collapse;
+}
+/* th {
+    margin: 5px;
+    padding: 5px;
+    background-color: #888;
+    margin-top: 0px;
+    
+} */
+
+.tablita {
+    overflow-y: auto;
+    height: 100px;
+    width: 294px;
+    border: 5px solid #3af70081;
+}
+
+.tablita thead {
+    text-align: left;
+    top: 0;
+    position: sticky;
+  }
+
+
+thead{
+    background-color: #888;
+    border: 0px;
+  }
